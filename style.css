@@ -1,0 +1,49 @@
+.kiwi {
+    background-color: green;
+    font-weight: bold;
+}
+
+.pomelo {
+    background-color: pink;
+    font-weight: bold;
+}
+
+.manzana {
+    background-color: rgb(255, 5, 88);
+    font-weight: bold;
+}
+
+.naranja {
+    background-color: rgb(255, 197, 5);
+    font-weight: bold;
+}
+
+.mandarina {
+    background-color: rgb(255, 118, 5);
+    font-weight: bold;
+}
+
+.melon {
+    background-color: yellowgreen;
+    font-weight: bold;
+}
+
+.frutilla {
+    background-color: red;
+    font-weight: bold;
+}
+
+.banana {
+    background-color: rgb(255, 251, 5);
+    font-weight: bold;
+}
+
+.limon {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.uva {
+    background-color: purple;
+    font-weight: bold;
+}
